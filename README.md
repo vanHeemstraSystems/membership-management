@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+membership-management
+# Membership Management
 
-> Slugline
+> Memberful - Membership, on your terms.
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
@@ -17,7 +17,7 @@ repository-name
 
 **Executive Summary**
 
-Text
+Exactly what you need to build a membership home for your brand, business, and community.
 
 Generated with [Rytr](https://app.rytr.me)
 
