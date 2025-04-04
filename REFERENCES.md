@@ -1,5 +1,6 @@
 # References
 
 - [Memberful](https://memberful.com)
+- [Memberful YouTube Channel](https://www.youtube.com/@memberful)
 - [RepoToText](https://github.com/GeekyGhost/RepoToText)
 - [Building React Apps in an Nx Monorepo](https://nx.dev/getting-started/tutorials/react-monorepo-tutorial)
